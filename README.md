@@ -1,5 +1,5 @@
 ### Hi there, I'm Nath 👋 
-https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif
+<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
 About me:
 Pronouns: she/her
