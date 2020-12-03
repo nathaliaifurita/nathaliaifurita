@@ -1,5 +1,5 @@
 ### Hi there, I'm Nath 👋 
-
+a QA Engineer from **Brazil** <img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="28" />
 <!--
 **nathaliaifurita/nathaliaifurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![nathaliaifurita's github stats](https://github-readme-stats.vercel.app/api?username=nathaliaifurita)](https://github.com/anuraghazra/github-readme-stats)
