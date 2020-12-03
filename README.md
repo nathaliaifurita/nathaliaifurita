@@ -1,5 +1,12 @@
 ### Hi there, I'm Nath 👋 
 
+About me:
+I'm a QA Engineer who loves code and automate tests
+Cat lover
+Potterhead
+from SP/Brazil
+
+Current working on Sumup!
 <!--
 **nathaliaifurita/nathaliaifurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
