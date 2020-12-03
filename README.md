@@ -1,6 +1,8 @@
 ### Hi there, I'm Nath 👋 
+https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif
 
 About me:
+Pronouns: she/her
 I'm a QA Engineer who loves code and automate tests
 Cat lover
 Potterhead
