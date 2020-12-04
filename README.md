@@ -18,7 +18,7 @@
 <h3>About me:</h3>
 
   - Pronouns: she/her
-  - I'm a QA Engineer who loves code and automate tests
+  - I'm a QA Engineer who loves code and test automation
   - Cat lover
   - Potterhead
   - from SP/Brazil
