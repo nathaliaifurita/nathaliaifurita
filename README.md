@@ -11,16 +11,17 @@
 <a href="https://www.instagram.com/nathaliaifurita/">
   <img align="left" alt="Nathalia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
 
 <h3>About me:</h3>
-<br>Pronouns: she/her</br>
-<br>I'm a QA Engineer who loves code and automate tests</br>
-<br>Cat lover</br>
-<br>Potterhead</br>
-<br>Feminist</br>
-<br>from SP/Brazil</br>
+Pronouns: she/her
+I'm a QA Engineer who loves code and automate tests
+Cat lover
+Potterhead
+Feminist
+from SP/Brazil
 
 Current working on Sumup!
 <!--
