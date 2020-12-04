@@ -22,7 +22,7 @@
   - Cat lover
   - Potterhead
   - from SP/Brazil
-  - Current working at Sumup
+  - Current working at [Sumup](https://sumup.com/)
 
 <!--
 **nathaliaifurita/nathaliaifurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
