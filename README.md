@@ -21,7 +21,7 @@
   - I'm a QA Engineer who loves code and test automation :bug: :mag_right:
   - Cat lover  :cat:
   - Potterhead
-  - from SP/Brazil :br:
+  - from SP/Brazil :brazil:
   - Current working at [Sumup](https://sumup.com/)
 
 <!--
