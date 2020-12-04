@@ -1,12 +1,26 @@
-### Hi there, I'm Nath 👋 
+<h2> Hi there, I'm Nath 👋 </h2>
+<a href="https://twitter.com/nathaliaifurita">
+  <img align="left" alt="Nathalia Ifurita | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nathaliaofreire/">
+  <img align="left" alt="Nathalia's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/nathaliaifurita">
+  <img align="left" alt="Nathalia's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/nathaliaifurita/">
+  <img align="left" alt="Nathalia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
-<h2>About me:</h2>
-Pronouns: she/her
-I'm a QA Engineer who loves code and automate tests
-Cat lover
-Potterhead
-from SP/Brazil
+
+<h3>About me:</h3>
+<br>Pronouns: she/her</br>
+<br>I'm a QA Engineer who loves code and automate tests</br>
+<br>Cat lover</br>
+<br>Potterhead</br>
+<br>Feminist</br>
+<br>from SP/Brazil</br>
 
 Current working on Sumup!
 <!--
