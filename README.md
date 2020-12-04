@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Nath 👋 </h2>
+<h2> Hi there, I'm Nathalia Freire, but you can call me Nath 👋 </h2>
 <a href="https://twitter.com/nathaliaifurita">
   <img align="left" alt="Nathalia Ifurita | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
