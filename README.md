@@ -39,3 +39,5 @@ a QA Engineer from **Brazil** <img src="https://image.flaticon.com/icons/svg/630
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaifurita&layout=compact)](https://github.com/nathaliaifurita/github-readme-stats)
+
+[![nathaliaifurita's github stats](https://github-readme-stats.vercel.app/api?username=nathaliaifurita)](https://github.com/nathaliaifurita/github-readme-stats)
