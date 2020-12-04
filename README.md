@@ -12,17 +12,20 @@
   <img align="left" alt="Nathalia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
+<img align='right' src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="230" />
 
 <h3>About me:</h3>
-- Pronouns: she/her
-- I'm a QA Engineer who loves code and automate tests
-- Cat lover
-- Potterhead
-- Feminist
-- from SP/Brazil
-- Current working at Sumup!
+
+  - Pronouns: she/her
+  - I'm a QA Engineer who loves code and automate tests
+  - Cat lover
+  - Potterhead
+  - from SP/Brazil
+  - Current working at Sumup
+
+
+<p align="right"><img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/></p>
 <!--
 **nathaliaifurita/nathaliaifurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
