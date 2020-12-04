@@ -16,14 +16,13 @@
 
 
 <h3>About me:</h3>
-Pronouns: she/her
-I'm a QA Engineer who loves code and automate tests
-Cat lover
-Potterhead
-Feminist
-from SP/Brazil
-
-Current working on Sumup!
+- Pronouns: she/her
+- I'm a QA Engineer who loves code and automate tests
+- Cat lover
+- Potterhead
+- Feminist
+- from SP/Brazil
+- Current working at Sumup!
 <!--
 **nathaliaifurita/nathaliaifurita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
