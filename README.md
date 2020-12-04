@@ -17,11 +17,11 @@
 
 <h3>About me:</h3>
 
-  - Pronouns: she/her
-  - I'm a QA Engineer who loves code and test automation
-  - Cat lover
+  - Gratuated in Information System by [Anhembi Morumbi](https://portal.anhembi.br/) university :mortar_board: :green_heart:
+  - I'm a QA Engineer who loves code and test automation :bug: :mag_right:
+  - Cat lover  :cat:
   - Potterhead
-  - from SP/Brazil
+  - from SP/Brazil :br:
   - Current working at [Sumup](https://sumup.com/)
 
 <!--
