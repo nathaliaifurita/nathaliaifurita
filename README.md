@@ -20,7 +20,7 @@
   - Gratuated in Information System by [Anhembi Morumbi](https://portal.anhembi.br/) university :mortar_board: :green_heart:
   - I'm a QA Engineer who loves code and test automation :bug: :mag_right: :octocat:
   - Cat lover  :cat:
-  - Potterhead :light:
+  - Potterhead
   - from SP/Brazil :brazil:
   - Current working at [Sumup](https://sumup.com/)
 
