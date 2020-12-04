@@ -1,7 +1,7 @@
 ### Hi there, I'm Nath 👋 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif"/>
 
-About me:
+<h2>About me:</h2>
 Pronouns: she/her
 I'm a QA Engineer who loves code and automate tests
 Cat lover
